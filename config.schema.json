@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeIntellifire",
   "pluginType": "platform",
   "singular": true,
   "schema": {
